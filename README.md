@@ -5,6 +5,6 @@ Repositorio para mostrar mis skills trabajando con git
 
 Universidad Tecnológica de la Selva
 
-## Lugar de procedencia
+## Lugar de procedencia g
 
 Ocosigno, Chiapas, 2026.
